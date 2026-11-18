@@ -13,3 +13,9 @@ Small daily notes to keep building in public. One entry per day.
 - Reviewed a couple of Spokane entry-level postings and noted which ones ask for C# vs. Python — worth tailoring the next resume pass.
 - Small idea: a tiny CLI that turns Canvas deadlines into a daily checklist, since the extension already pulls the data.
 - Read up on REST pagination patterns; cursor-based paging feels cleaner than offset for anything that grows over time.
+
+## 2026-11-18 (Wednesday)
+
+- Tinkered with a small idea: a habit-tracker widget that shows one streak number front and center, no charts or clutter.
+- Learned that GitHub's contribution graph counts commits by author date, so backdating entries would still show up — good to know, but keeping it daily anyway.
+- Thought about adding a tiny search filter to the Canvas deadlines extension so past-due items collapse out of the way.
